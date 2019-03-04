@@ -1,2 +1,2 @@
-<h1> Satish Geddada, Bindu Geddada, Prajwal Geddada, VedaGeddada </h1>
+<h1> Satish Geddada, Bindu Geddada, Prajwal Geddada, Veda Geddada</h1>
 
