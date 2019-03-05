@@ -1,3 +1,3 @@
-<h1> Test Project using Jenkins</h1>
-<h2> Deployed through Ansible</h2>
+<h1> Example 1</h1>
+<h2> Example 2</h2>
 
